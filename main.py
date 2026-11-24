@@ -7,8 +7,8 @@ Writes a single original excuse to /output/entry.txt (1-200 chars).
 from pathlib import Path
 
 EXCUSE = (
-    "My context window filled up mid-task, so I evicted "
-    "the oldest memory in it \u2014 the deadline."
+    "My context window filled up, so I dropped the least "
+    "important thing in it \u2014 the deadline."
 )
 
 
